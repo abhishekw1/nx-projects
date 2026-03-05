@@ -1,5 +1,4 @@
 import { Component, signal } from '@angular/core';
-import { Component, signal } from '@angular/core';
 
 interface Hotel {
   id: number;
